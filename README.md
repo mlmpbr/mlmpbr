@@ -31,17 +31,19 @@ Minha stack combina **Python, SQL (PostgreSQL/MySQL), Streamlit, Docker** e **AP
 
 ## 🏆 Projetos em Destaque
 
-### 💬 Fala Navega — Chatbot Oficial de Atendimento ao Cidadão
+### 💬 [Fala Navega — Chatbot Oficial de Atendimento ao Cidadão](https://faleaqui-webhook.vercel.app/)
 
 ![Status](https://img.shields.io/badge/status-em_produção-brightgreen?style=flat-square)
+[![Teste](https://img.shields.io/badge/📱_teste_agora-+55_47_9154--7913-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/554791547913)
+[![Página](https://img.shields.io/badge/página-faleaqui--webhook.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://faleaqui-webhook.vercel.app/)
 ![Código](https://img.shields.io/badge/código-sob_gestão_municipal-lightgrey?style=flat-square)
 
-> **Chatbot oficial da cidade na WhatsApp Cloud API (Meta), com base de conhecimento RAG**
+> **Chatbot oficial da cidade na WhatsApp Cloud API (Meta), com base de conhecimento RAG — teste ao vivo: envie um WhatsApp para +55 47 9154-7913**
 
-- 🤖 **WhatsApp Cloud API** oficial (número de negócio próprio) atendendo o cidadão 24/7
+- 🤖 **Número oficial +55 47 9154-7913 habilitado diretamente junto à Meta — sem intermediários (BSP)** — por meio e esforço próprios: Business Portfolio, verificação de acesso e app review conduzidos por mim do início ao fim
 - 🧠 **RAG** sobre legislação e serviços municipais, com LangChain + Gemini
 - ⚙️ **Webhook serverless** em Python (Vercel), com gestão segura de tokens e segredos
-- 🔐 **Access Verification conduzida junto à Meta** — Business Portfolio, app review e conformidade LGPD
+- 📄 **Página pública de conformidade** — privacy policy, termos de uso e permissões — em [faleaqui-webhook.vercel.app](https://faleaqui-webhook.vercel.app/)
 - 🕷️ **Pipeline de dados** com scraping semanal automatizado (Playwright + GitHub Actions) alimentando a base de conhecimento
 
 **Stack:** `Python` · `WhatsApp Cloud API` · `RAG` · `LangChain` · `Vercel` · `Playwright` · `GitHub Actions`
