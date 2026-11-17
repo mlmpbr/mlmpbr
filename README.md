@@ -50,6 +50,22 @@ Minha stack combina **Python, SQL (PostgreSQL/MySQL), Streamlit, Docker** e **AP
 
 ---
 
+### 🌐 [Fala Navega Web — Assistente Cívico Multimodal](https://huggingface.co/spaces/pmnvt/fala_navega_home)
+
+![Status](https://img.shields.io/badge/status-demo_no_ar-success?style=flat-square)
+[![Demo](https://img.shields.io/badge/🤗_demo-huggingface.co%2Fspaces%2Fpmnvt%2Ffala__navega__home-FFBD59?style=flat-square)](https://huggingface.co/spaces/pmnvt/fala_navega_home)
+
+> **Versão web do assistente de Navegantes — IA multimodal: texto, voz e imagem**
+
+- 🗣️ **Entrada multimodal** — o cidadão envia texto, áudio (transcrição via Whisper) ou imagem/documento
+- 🧠 **RAG** sobre legislação e serviços municipais, com LangChain + Gemini
+- 🖥️ **Interface web acessível** — mesma base de conhecimento do chatbot oficial de WhatsApp
+- 🏛️ **Orientação de serviços** — respostas instantâneas e encaminhamento ao setor correto da prefeitura
+
+**Stack:** `Python` · `IA Multimodal` · `Whisper` · `RAG` · `LangChain` · `Gemini` · `Hugging Face`
+
+---
+
 ### 📋 [NavegAI — Análise de Folha de Pagamento Pública](https://huggingface.co/spaces/pmnvt/sobre)
 
 ![Status](https://img.shields.io/badge/status-demo_no_ar-success?style=flat-square)
@@ -70,6 +86,22 @@ Sistema completo de análise de dados de RH do setor público com:
 
 ---
 
+### 📊 [Navegantes 360 — Dashboard Executivo de Finanças e RH](https://huggingface.co/spaces/pmnvt/dashv2)
+
+![Status](https://img.shields.io/badge/status-demo_no_ar-success?style=flat-square)
+[![Demo](https://img.shields.io/badge/🤗_demo-huggingface.co%2Fspaces%2Fpmnvt%2Fdashv2-FFBD59?style=flat-square)](https://huggingface.co/spaces/pmnvt/dashv2)
+
+> **Visão 360° das finanças municipais — Receitas, Despesas e RH em um único painel**
+
+- 📈 **Série histórica 2015–2026** de receitas e despesas — orçado vs. executado
+- 🏛️ **Múltiplas bases integradas**: licitações, contratos e restos a pagar
+- 📊 **Dashboards interativos em Plotly** para exploração livre dos dados pelo gestor
+- 🔄 **Pipeline de dados** com cache local e atualização a partir das fontes oficiais
+
+**Stack:** `Python` · `Plotly` · `Pandas` · `Docker` · `Hugging Face`
+
+---
+
 ### 🤖 [Betelgeuse — Agente de Engajamento Social](https://github.com/mlmpbr2/betelgeuse-coments)
 
 ![Status](https://img.shields.io/badge/status-demo_no_ar-success?style=flat-square)
@@ -83,21 +115,6 @@ Sistema completo de análise de dados de RH do setor público com:
 - 🏢 **Arquitetura multi-tenant** (SaaS)
 
 **Stack:** `TypeScript` · `Python` · `Meta Graph API` · `Vercel`
-
----
-
-### 📊 [Congres — Analytics de Engajamento](https://github.com/mlmpbr2/projetosia)
-
-![Status](https://img.shields.io/badge/status-open_source-blue?style=flat-square)
-
-> **Plataforma de Analytics para Dados de Engajamento e Acessos**
-
-- 📉 **Análise temporal** de acessos e interações
-- 🎯 **Segmentação de público** por faixas etárias e regiões
-- 📑 **Relatórios automatizados** com insights de crescimento
-- 💬 **Chat com banco de dados** em linguagem natural
-
-**Stack:** `Python` · `MySQL` · `Pandas` · `Matplotlib` · `Streamlit`
 
 ---
 
