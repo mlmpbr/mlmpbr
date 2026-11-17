@@ -2,13 +2,14 @@
 
 # 👋 Olá, eu sou **Mário Mello**
 
-### 🧠 Cientista de Dados | 🤖 Arquitetura de IA | 📊 Machine Learning Expert
+### 🧠 Cientista de Dados · 🤖 Arquitetura de Agentes de IA · 🏛️ IA Aplicada ao Setor Público
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariomello8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marioluizmello@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlmpbr)
+[![GitHub Projetos](https://img.shields.io/badge/GitHub_2-Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlmpbr2)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFBD59?style=for-the-badge&logoColor=black)](https://huggingface.co/pmnvt)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Site](https://img.shields.io/badge/Site-mariomello.com.br-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mariomello.com.br)
 
 > *"Transformando dados brutos em decisões estratégicas através de IA, SQL e visualização inteligente."*
 
@@ -18,49 +19,44 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Cientista de Dados** com uma trajetória que atravessa setores. Minha carreira começou na **área privada**, onde desenvolvi visão analítica e orientação a resultados. Sou um entusiasta da **Sociologia** e de como ela pode ajudar a compreender o mundo que vivemos e para onde caminhamos.
+Sou **Analista de TI da Prefeitura de Navegantes (SC)** — aprovado em **1º lugar no concurso público de 2023** — e atuo como **Cientista de Dados** do município, orquestrando agentes de IA para as áreas de **Folha de Pagamento, Contabilidade, Licitações, Contratos e grandes bases de dados públicas**.
 
-Hoje aplico essa experiência diversificada para **suportar o setor público**, orquestrando agentes de IA para as áreas de **Folha de Pagamento, Contabilidade, Licitações, Contratos e grandes bases de dados públicas**. Pesquiso e atuo junto a profissionais que estudam IA — como o **JEPA** (*Joint Embedded Predictive Architecture*), e os impactos que a **IA agentica** causa no mundo corporativo atual.
+Minha trajetória atravessa setores: comecei na **área privada**, onde desenvolvi visão analítica e orientação a resultados, e hoje aplico essa experiência diversificada a serviço do **setor público**. Sou entusiasta da **Sociologia** e de como ela ajuda a compreender o mundo — pesquiso e acompanho temas como o **JEPA** (*Joint Embedded Predictive Architecture*) e os impactos da **IA agêntica** no mundo corporativo.
 
-Minha stack combina **Python, SQL (PostgreSQL/MySQL), Streamlit, Docker** e **APIs de LLM** (Gemini, Claude, GPT) para pipelines que vão da extração de PDF até relatórios executivos, passando por dashboards interativos e orquestradores de agentes especializados.
+Minha stack combina **Python, SQL (PostgreSQL/MySQL), Streamlit, Docker** e **APIs de LLM** (Gemini, Claude, GPT) para pipelines que vão da extração de PDF até relatórios executivos — passando por dashboards interativos, chatbots em produção e orquestradores de agentes especializados.
 
----
-
-## 🛠️ Stack Tecnológico
-
-### 💻 Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### 🗄️ Bancos de Dados & Infraestrutura
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🤖 Inteligência Artificial & LLMs
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### 📊 Visualização & BI
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+**Fluxo de trabalho:** desenvolvimento acelerado por IA (*agentic coding*) com **Kimi Code**, **Claude Code** e **Antigravity** — da análise exploratória ao deploy, com validação rigorosa de cada resultado.
 
 ---
 
 ## 🏆 Projetos em Destaque
 
-### 📋 [NavegAI — Análise de Folha de Pagamento Pública](https://github.com/mlmpbr/navegai-rh)
+### 💬 Fala Navega — Chatbot Oficial de Atendimento ao Cidadão
+
+![Status](https://img.shields.io/badge/status-em_produção-brightgreen?style=flat-square)
+![Código](https://img.shields.io/badge/código-sob_gestão_municipal-lightgrey?style=flat-square)
+
+> **Chatbot oficial da cidade na WhatsApp Cloud API (Meta), com base de conhecimento RAG**
+
+- 🤖 **WhatsApp Cloud API** oficial (número de negócio próprio) atendendo o cidadão 24/7
+- 🧠 **RAG** sobre legislação e serviços municipais, com LangChain + Gemini
+- ⚙️ **Webhook serverless** em Python (Vercel), com gestão segura de tokens e segredos
+- 🔐 **Access Verification conduzida junto à Meta** — Business Portfolio, app review e conformidade LGPD
+- 🕷️ **Pipeline de dados** com scraping semanal automatizado (Playwright + GitHub Actions) alimentando a base de conhecimento
+
+**Stack:** `Python` · `WhatsApp Cloud API` · `RAG` · `LangChain` · `Vercel` · `Playwright` · `GitHub Actions`
+
+---
+
+### 📋 [NavegAI — Análise de Folha de Pagamento Pública](https://huggingface.co/spaces/pmnvt/sobre)
+
+![Status](https://img.shields.io/badge/status-demo_no_ar-success?style=flat-square)
+[![Demo](https://img.shields.io/badge/🤗_demo-huggingface.co%2Fspaces%2Fpmnvt%2Fsobre-FFBD59?style=flat-square)](https://huggingface.co/spaces/pmnvt/sobre)
+
 > **Orquestrador de Agentes de IA para Análise de Folha de Pagamento**
 
 Sistema completo de análise de dados de RH do setor público com:
+
 - 🔗 **Pipeline de Busca de Funcionários** com classificação de intenção (buscar, histórico, evolução, estatísticas)
 - 🧠 **Orquestrador de Agentes** com especialistas em SQL, estatísticas e visualização
 - 📊 **Dashboards interativos** em Streamlit com gráficos de evolução salarial, projeções e ranking de cargos
@@ -70,75 +66,118 @@ Sistema completo de análise de dados de RH do setor público com:
 
 **Stack:** `Python` · `Streamlit` · `PostgreSQL` · `Docker` · `Gemini API` · `Pandas` · `Plotly`
 
-**🤗 Demo no Hugging Face:** [pmnvt-sobre](https://pmnvt-sobre.static.hf.space/index.html)
-
 ---
 
-### 🤖 [Betelgeuse — Agente de Engajamento Social](https://github.com/mlmpbr/betelgeuse)
-> **Agente Inteligente para Moderação e Análise de Engajamento em Redes Sociais**
+### 🤖 [Betelgeuse — Agente de Engajamento Social](https://github.com/mlmpbr2/betelgeuse-coments)
 
-Sistema de automação para gestão de comunidades digitais:
+![Status](https://img.shields.io/badge/status-demo_no_ar-success?style=flat-square)
+[![Demo](https://img.shields.io/badge/demo-betelgeuse--coments.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://betelgeuse-coments.vercel.app)
+
+> **SaaS de moderação e análise de sentimento de comentários do Instagram**
+
 - 💬 **Moderação automática** de comentários com classificação de sentimento
-- 📈 **Análise de métricas** de engajamento e acessos em MySQL
-- 🔐 **Integração Meta API** (Facebook/Instagram) com gestão de tokens OAuth
-- 🎥 **Pipeline de produção de vídeo** para revisão e documentação de aplicativos
+- 📈 **Análise de métricas** de engajamento e acessos
+- 🔐 **Integração Meta Graph API** (Facebook/Instagram) com gestão de tokens OAuth
+- 🏢 **Arquitetura multi-tenant** (SaaS)
 
-**Stack:** `Python` · `MySQL` · `Meta Graph API` · `Streamlit` · `Docker`
+**Stack:** `TypeScript` · `Python` · `Meta Graph API` · `Vercel`
 
 ---
 
-### 📊 [Congres — Analytics de Engajamento](https://github.com/mlmpbr/congres-analytics)
+### 📊 [Congres — Analytics de Engajamento](https://github.com/mlmpbr2/projetosia)
+
+![Status](https://img.shields.io/badge/status-open_source-blue?style=flat-square)
+
 > **Plataforma de Analytics para Dados de Engajamento e Acessos**
 
-Dashboard analítico para monitoramento de métricas de engajamento:
 - 📉 **Análise temporal** de acessos e interações
 - 🎯 **Segmentação de público** por faixas etárias e regiões
 - 📑 **Relatórios automatizados** com insights de crescimento
+- 💬 **Chat com banco de dados** em linguagem natural
 
 **Stack:** `Python` · `MySQL` · `Pandas` · `Matplotlib` · `Streamlit`
 
 ---
 
-## 🌐 Demo ao Vivo no Hugging Face
+## 🛠️ Stack Tecnológico
 
-> **🤗 [pmnvt-sobre.static.hf.space](https://pmnvt-sobre.static.hf.space/index.html)**
+### 💻 Linguagens & Frameworks
 
-Veja o NavegAI em ação! O sistema está hospedado no Hugging Face Spaces, demonstrando:
-- Pipeline de busca de funcionários com IA
-- Dashboards interativos de folha de pagamento
-- Relatórios executivos em tempo real
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🤖 IA Generativa & Agentes
+
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-8A2BE2?style=flat-square)
+
+### ⚡ Desenvolvimento Acelerado por IA
+
+![Kimi Code](https://img.shields.io/badge/Kimi_Code-000000?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
+![Lovable](https://img.shields.io/badge/Lovable-FF5C8A?style=flat-square)
+
+### 🗄️ Bancos de Dados & Infraestrutura
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 Visualização & BI
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ---
 
 ## ☁️ Google Cloud & Vertex AI
 
 Utilizo ativamente o **Google Cloud Platform** e o **Vertex AI Model Garden** para:
+
 - 🧠 Acesso a modelos de linguagem de última geração (Gemini 2.5 Flash, Pro)
 - 🔗 Integração de APIs de LLM em pipelines de produção
 - 📊 Processamento de dados em escala com BigQuery
-- 🚀 Deploy de aplicações com infraestrutura escalável
+- 🚀 Deploy de aplicações com infraestrutura escalável (Cloud Run)
 
 ---
 
 ## 📚 Formação & Certificações
 
-- 🎓 **Cientista de Dados** — Especialização pela DSA Academy
-- 🤖 **Machine Learning** — Data Science Academy
-- 🏛️ **IA Aplicada ao Setor Público** — DSA Academy
+- 🎓 **MBA — Ciência de Dados** (Formação Cientista de Dados 4.0) — Data Science Academy, 2025
+- 🤖 **Building Reliable Agents** — LangChain Academy, 2026
+- 🏛️ **IA Aplicada ao Setor Público** — Data Science Academy
 - ☁️ **Google Cloud** — Vertex AI, Model Garden, BigQuery
-- 📊 **Power BI** — Visualização e Modelagem de Dados
+- 📊 **Power BI / Master DAX** — Visualização e Modelagem de Dados
+- 💼 **MBA em Gestão da T.I.** — OPET · **Bacharelado em Informática** — UFPR
 
 ---
 
 ## 🎯 O que me Diferencia
 
 | Habilidade | Descrição |
-|------------|-----------|
-| 🏗️ **Arquitetura de Agentes** | Construo orquestradores com agentes especializados (SQL, slides, ok-computer) para minimizar alucinações |
+| --- | --- |
+| 🏗️ **Arquitetura de Agentes** | Construo orquestradores com agentes especializados por domínio (SQL, estatística, visualização) para minimizar alucinações |
 | 🔍 **Precisão Analítica** | Valido resultados de IA comparando com consultas SQL manuais — zero tolerância a "alucinações" |
+| ⚡ **Velocidade com IA** | Fluxo *agentic coding* (Kimi Code, Claude Code, Antigravity) multiplicando a velocidade de entrega |
 | 🐳 **Infraestrutura Local** | Docker, PostgreSQL local e execução de pipelines sem dependência de nuvem |
 | 📄 **Processamento de Documentos** | OCR em grande volume, extração de PDF e geração de relatórios executivos |
-| 🧩 **Resolução de Problemas** | De debug de conexão MySQL até correção de pipelines de classificação de intenção |
 | 🌍 **Visão Multissetorial** | Experiência em privado, social e público. Traduzo contextos complexos em soluções práticas |
 
 ---
@@ -147,13 +186,12 @@ Utilizo ativamente o **Google Cloud Platform** e o **Vertex AI Model Garden** pa
 
 > 📧 **Email:** [marioluizmello@gmail.com](mailto:marioluizmello@gmail.com)  
 > 💼 **LinkedIn:** [linkedin.com/in/mariomello8](https://www.linkedin.com/in/mariomello8/)  
-> 🐙 **GitHub:** [github.com/mlmpbr](https://github.com/mlmpbr)  
+> 🐙 **GitHub:** [github.com/mlmpbr](https://github.com/mlmpbr) · [github.com/mlmpbr2](https://github.com/mlmpbr2) *(projetos adicionais)*  
 > 🤗 **Hugging Face:** [huggingface.co/pmnvt](https://huggingface.co/pmnvt)  
-> 🌐 **Portfólio:** [mlmpbr.github.io](https://mlmpbr.github.io)
+> 🌐 **Portfólio:** [mlmpbr.github.io](https://mlmpbr.github.io) · **Site:** [mariomello.com.br](https://mariomello.com.br)
 
 <div align="center">
 
 ⭐ *Se algum projeto meu te ajudou, deixa uma estrela!* ⭐
 
 </div>
-
